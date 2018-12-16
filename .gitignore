@@ -1,0 +1,36 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+#Netbeans
+nbproject/private/
+build/
+nbbuild
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+
+# IntelliJ
+.idea/
+out/
+*.iws
+*.iml
+
+
+# Mac
+.DS_Store
+
+# Package Files #
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+/out/
+/Client/yarn.lock
